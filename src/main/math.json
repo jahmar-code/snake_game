@@ -1,0 +1,242 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      {
+        "question": "2 + 3 = ?",
+        "answer": "5"
+      },
+      {
+        "question": "4 - 2 = ?",
+        "answer": "2"
+      },      {
+        "question": "1 + 3 = ?",
+        "answer": "4"
+      },
+      {
+        "question": "3 - 2 = ?",
+        "answer": "1"
+      },
+      {
+        "question": "5 - 1 = ?",
+        "answer": "4"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      {
+        "question": "2 * 3 = ?",
+        "answer": "6"
+      },
+      {
+        "question": "4 * 2 = ?",
+        "answer": "8"
+      },      {
+        "question": "1 * 3 = ?",
+        "answer": "3"
+      },
+      {
+        "question": "3 * 2 = ?",
+        "answer": "6"
+      },
+      {
+        "question": "5 * 1 = ?",
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      {
+        "question": "20 + 30 = ?",
+        "answer": "50"
+      },
+      {
+        "question": "42 - 2 = ?",
+        "answer": "40"
+      },      {
+        "question": "100 + 34 = ?",
+        "answer": "134"
+      },
+      {
+        "question": "89 - 89 = ?",
+        "answer": "0"
+      },
+      {
+        "question": "318 - 19 = ?",
+        "answer": "299"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      {
+        "question": "20 * 3 = ?",
+        "answer": "60"
+      },
+      {
+        "question": "40 * 29 = ?",
+        "answer": "1160"
+      },      {
+        "question": "17 * 2 = ?",
+        "answer": "34"
+      },
+      {
+        "question": "90 * 92 = ?",
+        "answer": "8280"
+      },
+      {
+        "question": "5 * 78 = ?",
+        "answer": "390"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      {
+        "question": "18/3 = ?",
+        "answer": "6"
+      },
+      {
+        "question": "4/2 = ?",
+        "answer": "2"
+      },      {
+        "question": "100/5 = ?",
+        "answer": "20"
+      },
+      {
+        "question": "81/9 = ?",
+        "answer": "9"
+      },
+      {
+        "question": "55/11 = ?",
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      {
+        "question": "480/6 = ?",
+        "answer": "80"
+      },
+      {
+        "question": "786/2 = ?",
+        "answer": "393"
+      },      {
+        "question": "102/3 = ?",
+        "answer": "34"
+      },
+      {
+        "question": "630/9 = ?",
+        "answer": "70"
+      },
+      {
+        "question": "3125/5 = ?",
+        "answer": "625"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      {
+        "question": "3125/25 = ?",
+        "answer": "125"
+      },
+      {
+        "question": "(400 - 2)/2 = ?",
+        "answer": "199"
+      },      {
+        "question": "(89 - 8)/9 = ?",
+        "answer": "9"
+      },
+      {
+        "question": "(5 - 2)*2 = ?",
+        "answer": "6"
+      },
+      {
+        "question": "(10 + 90)*2 = ?",
+        "answer": "200"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      {
+        "question": "(5 - 2)*(2 + 1) = ?",
+        "answer": "9"
+      },
+      {
+        "question": "(50 + 200)*(20 + 1) = ?",
+        "answer": "5250"
+      },      {
+        "question": "(0 + 20)/(3 + 2) = ?",
+        "answer": "4"
+      },
+      {
+        "question": "(99 + 2)/(9 - 8) = ?",
+        "answer": "101"
+      },
+      {
+        "question": "(9 + 6)/(10 - 5) = ?",
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      {
+        "question": "What is the absolute value of -5 ?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the maximum degree for the range of an acute angle ?",
+        "answer": "90"
+      },      {
+        "question": "What is the absolute value of 7 ?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the product of 19 and 5 ?",
+        "answer": "95"
+      },
+      {
+        "question": "If you have 24 apples and eat a third of them, how many are left ?",
+        "answer": "16"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      {
+        "question": "8*(50 + 2)*(2 + 1) = ?",
+        "answer": "1248"
+      },
+      {
+        "question": "If you have 380 houses and you sell half of them, how many do you have now ?",
+        "answer": "190"
+      },      {
+        "question": "108/((40 - 34)*(3*1)) = ?",
+        "answer": "6"
+      },
+      {
+        "question": "5^2 = ?",
+        "answer": "25"
+      },
+      {
+        "question": "(4^4) - (3^3)= ?",
+        "answer": "229"
+      }
+    ]
+  }
+]
